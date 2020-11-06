@@ -1,5 +1,5 @@
 <?php /* tag de abertura php */
 
-	echo "Testando repositório Git"; // Texto html.
+	echo "Olá mundo"; // Texto html.
 	
 ?>
